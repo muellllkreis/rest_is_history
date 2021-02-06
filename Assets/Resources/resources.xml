@@ -1,0 +1,30 @@
+<resources>
+	<material>
+		<name>STONE</name>
+		<type>MATERIAL</type>
+	</material>
+	<material>
+		<name>WOOD</name>
+		<type>MATERIAL</type>
+	</material>
+	<material>
+		<name>BAMBOO</name>
+		<type>MATERIAL</type>
+	</material>
+	<material>
+		<name>IRON</name>
+		<type>MATERIAL</type>
+	</material>
+	<grain>
+		<name>WHEAT</name>
+		<type>GRAIN</type>
+	</grain>
+	<grain>
+		<name>CORN</name>
+		<type>GRAIN</type>
+	</grain>
+	<grain>
+		<name>RICE</name>
+		<type>GRAIN</type>
+	</grain>
+</resources>
